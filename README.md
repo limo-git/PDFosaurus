@@ -1,7 +1,7 @@
 # Dinosaur in a PDF
 
 A fully interactive, self-contained T-Rex game embedded directly inside a PDF using low-level PDF syntax and embedded JavaScript. No external tools, no dependencies—just raw PDF internals powering an interactive experience inside Adobe Acrobat.
-Try it out: https://github.com/limo-git/PDFosaurus/blob/main/dinosaur_game.pdf
+Try it out: https://raw.githubusercontent.com/limo-git/PDFosaurus/main/dinosaur_game.pdf
 ## Features
 
 - **Pure PDF Syntax:** Built using low-level PDF object structures, including form fields and annotations.
